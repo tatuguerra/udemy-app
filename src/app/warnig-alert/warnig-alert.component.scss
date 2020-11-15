@@ -1,0 +1,13 @@
+.warning-alert{
+    &__wrapper{
+        background-color: #FFA19E;
+        color: #BD423D;
+        border: 1px solid #BD423D;
+        padding: 15px;
+        text-align: center;
+        p{
+            margin: 0;
+            font-weight: 800;
+        }
+    }
+}
